@@ -1,3 +1,5 @@
+# :white_check_mark: SUCCESS :white_check_mark:
+
 # Low-Power Embedded Game
 
 Welcome to Low-Power Embedded Game on Exercism's Rust Track.
